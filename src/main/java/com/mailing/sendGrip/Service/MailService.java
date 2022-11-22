@@ -12,7 +12,7 @@ import com.sendgrid.Method;
 import com.sendgrid.Request;
 import com.sendgrid.Response;
 import com.sendgrid.SendGrid;
-@Service
+//@Service
 public class MailService {
     private static final Logger logger = LoggerFactory.getLogger(MailService.class);
 

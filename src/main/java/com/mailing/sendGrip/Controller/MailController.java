@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 //import com.hamdibouallegue.sendgriddemo.model.InvitationEmail;
 //import com.hamdibouallegue.sendgriddemo.service.MailService;
 
-@RestController
-@RequestMapping(value = "/api")
+//@RestController
+//@RequestMapping(value = "/api")
 public class MailController {
     @Autowired
     MailService mailService;
